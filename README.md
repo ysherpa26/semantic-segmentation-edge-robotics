@@ -63,9 +63,9 @@ Strong classes: sky (85.9%), ceiling (71.0%), car (66.4%), tree (65.2%), person 
 
 Ground truth (left) vs. model prediction (right):
 
-![8K iterations](results/vis_samples/prediction_8k_iters.png)
-![40K iterations](results/vis_samples/prediction_40k_iters.png)
-![80K iterations](results/vis_samples/prediction_80k_iters.png)
+![8K iterations](prediction_8k_iters.png)
+![40K iterations](prediction_40k_iters.png)
+![80K iterations](prediction_80k_iters.png)
 
 ## Repo contents
 
